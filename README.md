@@ -1,4 +1,5 @@
-<img src="images/profilepicture.png" alt="profilepicture" width="200"/>
+<img src="images/profilepicture.png" alt="profilepicture" width="200"></img>
+
 ## Kurt Schneider
 
 ### About
