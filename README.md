@@ -1,4 +1,4 @@
-![profilepicture](images/profilepicture.png)
+<img src="images/profilepicture.png" alt="profilepicture" width="200"/>
 ## Kurt Schneider
 
 ### About
