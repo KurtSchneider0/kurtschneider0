@@ -13,7 +13,7 @@
 ### Projects
 <ol>
   <li>I collaborated on a <a href="https://www.gyle.de/wordpress/media/2021/05/IMMC_GymnasiumLerchenfeld_2.pdf">paper</a> for the <a href="https://www.immchallenge.org/">IMMC</a></li>
-  <li>I'm writing a little <a hfref="https://kurtschneider0.github.io/">blog</a>
+  <li>I'm writing a little <a href="https://kurtschneider0.github.io/">blog</a>
   <li>Other small projects are just on my GitHub
 </ol>
 <!--
