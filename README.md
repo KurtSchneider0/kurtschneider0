@@ -3,7 +3,7 @@
 ## Kurt Schneider
 
 ### About
-<ul><a href=""></a>
+<ul>
   <li> I'm a student at <a href="https://www.gyle.de">Gymnasium Lerchenfeld</a>. <br></li>
   <li> I'm really interested in Mathematics, Physics and Computer Science. <br></li>
   <li> I have basic knowledge in AWS, Analysis, Classical Physics, Cryptography, CyberSecurity, GitHub, GraphQL, Group Theory, JavaScript, PostgreSQL, Python, React Native, React.js, Terraform, bash, discord.py, node.js, HTML, CSS <br></li>
