@@ -2,13 +2,14 @@
 
 ## Kurt Schneider
 
-### About
+<!--### About -->
 <ul>
   <li> I'm a student at <a href="https://www.gyle.de">Gymnasium Lerchenfeld</a>. <br></li>
   <li> I'm really interested in Mathematics, Physics and Computer Science. <br></li>
   <!--<li> I have basic knowledge in AWS, Analysis, Classical Physics, Cryptography, CyberSecurity, GitHub, GraphQL, Group Theory, JavaScript, PostgreSQL, Python, React Native, React.js, Terraform, bash, discord.py, node.js, HTML, CSS <br></li>-->
   <li> I'm currently learning about Category theory, Topology and Quantum Theory </li>
 </ul>
+<!--
 
 ### Projects
 <ol>
@@ -16,7 +17,7 @@
   <li>I'm writing a little <a href="https://kurtschneider0.github.io/">blog</a>
   <li>Other small projects are just on my GitHub
 </ol>
-<!--
+
 **KurtSchneider0/kurtschneider0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
